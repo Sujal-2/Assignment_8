@@ -1,0 +1,11 @@
+Name,Description,List,Labels,Due Date,Members
+US-01 Secure role-based sign-in,"5 points | Must | Only active users enter and permissions apply",Sprint 1,"Security,Must",2026-08-25,
+US-02 Manage products and batches,"8 points | Must | Unique SKU and validated batch/expiry data",In Progress,"Inventory,Must",2026-08-21,
+US-03 Manage suppliers,"3 points | Should | Contacts and lead time",Sprint 1,"Purchasing,Should",2026-08-22,
+US-04 Receive purchases,"8 points | Must | Atomic purchase, ledger and stock update",In Review,"Purchasing,Must",2026-08-24,
+US-05 Manage customers,"3 points | Should | Hospitals, clinics and pharmacies",Product Backlog,"Customers,Should",2026-09-02,
+US-06 Post sale and invoice,"13 points | Must | Validate stock and update atomically",Product Backlog,"Sales,Must",2026-09-04,
+US-07 Low-stock and expiry alerts,"5 points | Must | Configurable and prioritised alerts",In Progress,"Inventory,Must",2026-08-25,
+US-08 Operations dashboard,"5 points | Should | Reconciled KPIs and risks",Done,"Reporting,Should",2026-08-20,
+US-09 Reports and audit log,"8 points | Must | Filtered exports and traceable changes",Product Backlog,"Audit,Must",2026-09-08,
+US-10 Barcode and FEFO,"8 points | Could | Scan batch and recommend earliest valid expiry",Future,"Future,Could",2026-10-01,

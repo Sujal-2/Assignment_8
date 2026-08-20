@@ -1,0 +1,12 @@
+node_modules/
+.next/
+dist/
+.wrangler/
+.vinext/
+work/
+outputs/
+.env
+server/.env
+server/node_modules/
+*.log
+*.inspect.ndjson
