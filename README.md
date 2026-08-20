@@ -38,7 +38,7 @@ Use a dedicated least-privilege MySQL account in production. Do not commit `.env
 
 ```text
 app/               React pages and responsive interface
-lib/               frontend API adapter
+lib/               frontend API adapter 
 server/src/        Express API and transactional services
 server/sql/        normalized MySQL schema
 requirements/      requirements and stakeholder analysis
